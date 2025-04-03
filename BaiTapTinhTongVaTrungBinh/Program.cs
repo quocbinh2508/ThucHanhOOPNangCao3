@@ -1,7 +1,4 @@
 ﻿using System;
-using System.ComponentModel.Design;
-using System.Numerics;
-using System.Security.Cryptography.X509Certificates;
 
 class MathOperations
 {
